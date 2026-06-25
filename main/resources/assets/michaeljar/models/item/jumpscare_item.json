@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "michaeljar:item/jumpscare_item"
+  },
+  "render_type": "minecraft:cutout"
+}
